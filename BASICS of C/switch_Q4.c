@@ -1,4 +1,5 @@
-//program to find maximum between two numbers using switch case //1= CONDITION TRUE & 0=FALSE
+//program to find maximum between two numbers using switch case 
+//1= CONDITION TRUE & 0=FALSE
 #include <stdio.h>
 
 int main()
